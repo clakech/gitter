@@ -113,3 +113,9 @@ changer l'ordre des lignes
 
 `squash/s` : fusionner les messages<br>
 ou `fixup/f` : garder le message le plus ancien
+
+---
+
+### Supprimer un commit
+
+supprimer une ligne
