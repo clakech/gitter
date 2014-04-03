@@ -32,3 +32,25 @@ Closes #1234
 * Comment ?
 * Quoi ?
 * Références ?
+
+---
+
+## Générer un changelog
+
+```
+TODO remplacer par l'image du changelog généré final
+Changelog (en image)
+
+v5.8.2 (2014-02-21)
+
+Bug Fixes
+
+family:
+	split files into services and directives (3a15c697)
+	update style on multiple checks on queries (97185f0e)
+queryPicker: replace != by ≠ in query picker operands (f16b3f7c)
+
+Features
+
+form: add empty fields behavior info message (23882829)
+```
