@@ -100,3 +100,9 @@ git rebase --continue
 ### Modifier un comit
 
 `edit/e`
+
+---
+
+### Réordonner un commit
+
+changer l'ordre des lignes
