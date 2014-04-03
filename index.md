@@ -106,3 +106,10 @@ git rebase --continue
 ### Réordonner un commit
 
 changer l'ordre des lignes
+
+---
+
+### Fusionner un commit
+
+`squash/s` : fusionner les messages<br>
+ou `fixup/f` : garder le message le plus ancien
