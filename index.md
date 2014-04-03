@@ -119,3 +119,11 @@ ou `fixup/f` : garder le message le plus ancien
 ### Supprimer un commit
 
 supprimer une ligne
+
+---
+
+## Merci ;-)
+
+---
+
+## Q/A ??
