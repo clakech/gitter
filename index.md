@@ -70,3 +70,21 @@ TODO Rappels sur le rebase
 ```
 git rebase master
 ```
+
+---
+
+### Rebase interactif
+
+```
+git rebase -i master
+git rebase -i HEAD~3
+git rebase -i 74dec23
+
+# editer la todo list
+
+# faire les actions
+
+git rebase --continue
+
+# (résoudre les conflits)
+```
