@@ -54,3 +54,19 @@ Features
 
 form: add empty fields behavior info message (23882829)
 ```
+
+---
+
+## Soigner l'historique<br>=<br>modifier des commits
+
+/!\ Ne jamais le faire sur master
+
+---
+
+### Rebase plutôt que merge
+
+TODO Rappels sur le rebase
+
+```
+git rebase master
+```
