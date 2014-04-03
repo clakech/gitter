@@ -49,3 +49,13 @@
 
 <!-- .element: class="fullImageCaption" -->
 Générer un changelog
+
+---
+
+<!-- .slide: data-background="#F5AF33" -->
+
+# Merci !!
+
+---
+
+# Q/A ??
