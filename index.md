@@ -27,10 +27,10 @@ Closes #1234
 
 ## Répondre aux questions importantes
 
+* Quoi ?
 * **Où** sont les changements ?
 * Pourquoi ce changement ?
 * Comment ?
-* Quoi ?
 * Références ?
 
 ---
