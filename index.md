@@ -64,3 +64,14 @@ Git merge vs rebase
 
 <!-- .element: class="fullImageCaption" -->
 `grunt changelog`
+
+---
+
+<!-- .slide: data-background="img/happy-dev.jpg" data-background-size="cover" -->
+
+<!-- .element: class="fullImageCaption" -->
+Merci !!
+
+---
+
+<!-- .slide: data-background="img/profiles.svg" data-background-size="cover" -->
