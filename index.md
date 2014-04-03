@@ -88,3 +88,9 @@ git rebase --continue
 
 # (résoudre les conflits)
 ```
+
+---
+
+### Renommer un commit
+
+`reword/r`
