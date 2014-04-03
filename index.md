@@ -22,3 +22,13 @@ display a form to define a new password
 
 Closes #1234
 ```
+
+---
+
+## Répondre aux questions importantes
+
+* **Où** sont les changements ?
+* Pourquoi ce changement ?
+* Comment ?
+* Quoi ?
+* Références ?
