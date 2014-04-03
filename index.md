@@ -94,3 +94,9 @@ git rebase --continue
 ### Renommer un commit
 
 `reword/r`
+
+---
+
+### Modifier un comit
+
+`edit/e`
