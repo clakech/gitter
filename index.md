@@ -38,3 +38,22 @@ Valeur pour l'utilisateur
 
 <!-- .element: class="fullImageCaption" -->
 Git merge vs rebase
+
+---
+
+<!-- .slide: data-background="#F5AF33" -->
+
+# Des outils
+
+---
+
+<!-- .slide: class="twoColList codeTitle" -->
+
+# `git rebase -i ?`
+
+* Renommer
+* Modifier
+* Réordonner
+* Fusionner
+* Insérer
+* Supprimer
