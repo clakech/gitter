@@ -57,3 +57,10 @@ Git merge vs rebase
 * Fusionner
 * Insérer
 * Supprimer
+
+---
+
+<!-- .slide: data-background="img/changelog.png" data-background-size="contain" class="codeTitle" -->
+
+<!-- .element: class="fullImageCaption" -->
+`grunt changelog`
