@@ -29,3 +29,16 @@
 2. Code review ? commit
 3. Code ready ? rebase
 4. Code merge ? merge !
+
+---
+
+<!-- .slide: class="twoColList" -->
+
+## Manipuler l'historique
+
+* Renommer
+* Modifier
+* Réordonner
+* Fusionner
+* Insérer
+* Supprimer
