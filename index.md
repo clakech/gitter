@@ -19,3 +19,15 @@ Valeur pour l'utilisateur
 ## Un historique propre
 
 ![git clean history](img/git-clean-history.png)
+
+---
+
+<!-- .slide: data-background="#F5AF33" -->
+
+# Une méthode
+
+---
+
+## Conventions de commit
+
+![git rebase target](img/conventions-00.png)
