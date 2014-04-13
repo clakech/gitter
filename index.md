@@ -31,3 +31,10 @@ Valeur pour l'utilisateur
 ## Conventions de commit
 
 ![git rebase target](img/conventions-00.png)
+
+---
+
+<!-- .slide: data-background="img/clean-vs-dirty-water.jpg" data-background-size="cover" -->
+
+<!-- .element: class="fullImageCaption" -->
+Git merge vs rebase
