@@ -42,3 +42,10 @@
 * Fusionner
 * Insérer
 * Supprimer
+
+---
+
+<!-- .slide: data-background="img/changelog.png" data-background-size="contain" -->
+
+<!-- .element: class="fullImageCaption" -->
+Générer un changelog
