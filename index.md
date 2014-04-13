@@ -12,3 +12,9 @@
 * Un historique propre :-)
 * Qualité dans le code
 * Dévelopeurs contents
+
+---
+
+## Conventions de commit
+
+![git rebase target](img/conventions-00.png)
