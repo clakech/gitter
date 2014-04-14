@@ -4,14 +4,27 @@
 
 ---
 
-<!-- .slide: class="oneColList" -->
+<!-- .slide: data-background="#F5AF33" -->
 
-## Convictions
+# Une conviction
 
-* Un historique sale :-(
-* Un historique propre :-)
-* Qualité dans le code
-* Dévelopeurs contents
+Note:
+Un historique propre c'est important <br>
+Qualité dans le code <br>
+Sérénité dans l'équipe <br>
+Valeur pour l'utilisateur
+
+---
+
+## Un historique propre
+
+TODO graph histo propre
+
+---
+
+<!-- .slide: data-background="#F5AF33" -->
+
+# Une méthode
 
 ---
 
@@ -21,20 +34,22 @@
 
 ---
 
-<!-- .slide: class="oneColList" -->
+<!-- .slide: data-background="img/clean-vs-dirty-water.jpg" data-background-size="cover" -->
 
-## Merge vs. Rebase
-
-1. Code privé ? rebase
-2. Code review ? commit
-3. Code ready ? rebase
-4. Code merge ? merge !
+<!-- .element: class="fullImageCaption" -->
+Git merge vs rebase
 
 ---
 
-<!-- .slide: class="twoColList" -->
+<!-- .slide: data-background="#F5AF33" -->
 
-## Manipuler l'historique
+# Des outils
+
+---
+
+<!-- .slide: class="twoColList codeTitle" -->
+
+# `git rebase -i ?`
 
 * Renommer
 * Modifier
@@ -48,13 +63,14 @@
 <!-- .slide: data-background="img/changelog.png" data-background-size="contain" -->
 
 <!-- .element: class="fullImageCaption" -->
-Générer un changelog
+`grunt changelog`
 
 ---
 
-<!-- .slide: data-background="#F5AF33" -->
+<!-- .slide: data-background="img/happy-dev.jpg" data-background-size="cover" -->
 
-# Merci !!
+<!-- .element: class="fullImageCaption" -->
+Merci !!
 
 ---
 
