@@ -1,6 +1,8 @@
-<!-- .slide: data-background="#F5AF33" -->
+<!-- .slide: data-background="img/devoxx-background.png" data-background-size="cover" -->
 
-# Git++ <br> Le recap
+# Git++
+
+*Ce qu'il faut retenir*
 
 ---
 
@@ -9,7 +11,7 @@
 # Une conviction
 
 Note:
-Un historique propre c'est important <br>
+Pour avoir : <br>
 Qualité dans le code <br>
 Sérénité dans l'équipe <br>
 Valeur pour l'utilisateur
@@ -19,6 +21,9 @@ Valeur pour l'utilisateur
 ## Un historique propre
 
 ![git clean history](img/git-clean-history.png)
+
+Note:
+Un historique propre c'est important
 
 ---
 
@@ -49,7 +54,7 @@ Git merge vs rebase
 
 <!-- .slide: class="twoColList codeTitle" -->
 
-# `git rebase -i ?`
+# `git rebase -i`
 
 * Renommer
 * Modifier
@@ -63,7 +68,7 @@ Git merge vs rebase
 <!-- .slide: data-background="img/changelog.png" data-background-size="contain" class="codeTitle" -->
 
 <!-- .element: class="fullImageCaption" -->
-`grunt changelog`
+`npm i grunt-conventional-changelog` <br> `grunt changelog`
 
 ---
 
